@@ -1,3 +1,4 @@
 x = 1
 
-x = 
+#  "x =" causes a Syntax Error
+# x = 
